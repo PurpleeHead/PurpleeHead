@@ -88,8 +88,6 @@ company logos before the main interface loads.
 - CSS animations and micro-interactions
 - Performance optimization
 
---
-
 ## Contacts
 
 [Telegram](https://t.me/art_alberto) ·
