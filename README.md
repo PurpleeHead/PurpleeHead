@@ -10,15 +10,6 @@
 
 ---
 
-## What I do
-
-Responsive web interfaces from Figma designs
-Semantic HTML/CSS
-JavaScript interactions
-React applications
-
----
-
 ## Tech Stack
 
 **Frontend**
@@ -86,6 +77,18 @@ company logos before the main interface loads.
 [https://purpleehead.github.io/portfolio/](https://purpleehead.github.io/portfolio/)
 
 ---
+
+## What I Do
+
+- Responsive HTML/CSS development from Figma designs
+- Semantic and accessible markup
+- Pixel Perfect implementation
+- Interactive UI with JavaScript
+- React interfaces
+- CSS animations and micro-interactions
+- Performance optimization
+
+--
 
 ## Contacts
 
