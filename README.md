@@ -1,12 +1,21 @@
 # Artem Kutelev
 
-### Frontend Developer
+### Frontend Developer / HTML-CSS Developer
 
 Создаю современные и адаптивные веб-интерфейсы.
 
 Работаю с HTML, CSS, JavaScript, TypeScript и React.  
 В проектах уделяю внимание адаптивности, семантике, структуре кода,
 производительности и пользовательскому интерфейсу.
+
+---
+
+## What I do
+
+Responsive web interfaces from Figma designs
+Semantic HTML/CSS
+JavaScript interactions
+React applications
 
 ---
 
@@ -20,6 +29,7 @@
 - React
 
 **Tools & Technologies**
+
 - BEM
 - Flexbox / CSS Grid
 - SVG / SVG Sprite
