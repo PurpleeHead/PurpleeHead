@@ -2,13 +2,13 @@
 
 ### Junior Frontend Developer | HTML/CSS Developer
 
-**Open to remote opportunities**
+**Open to remote and international opportunities**
 
 I build **responsive, accessible, and pixel-perfect web interfaces** from Figma designs.
 
 My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focus on clean semantic markup, responsive layouts, reusable components, maintainable code, and web performance.
 
-📍 Remote
+📍 Remote / Da Nang, Vietnam
 💼 Junior Frontend Developer / HTML-CSS Developer
 🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
 
@@ -45,7 +45,7 @@ My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focu
 * Zod
 * TanStack React Query
 
-**Tools**
+**Tools & Development**
 
 * Git / GitHub
 * Figma
@@ -54,6 +54,22 @@ My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focu
 * WebP / AVIF
 * Lazy Loading
 * Cross-browser Testing
+* AI-assisted development
+
+**AI Tools**
+
+* ChatGPT
+* Cursor
+* Claude
+* AI-assisted coding and debugging
+* Reviewing and improving AI-generated code
+
+---
+
+## Languages
+
+* **Russian** — Native
+* **English** — Elementary, actively improving; comfortable with technical documentation and frontend terminology
 
 ---
 
@@ -138,12 +154,14 @@ Responsive hotel landing page implemented from a design.
 * Develop pixel-perfect layouts
 * Build desktop, tablet, and mobile versions
 * Implement interactive UI with JavaScript
-* Develop React interfaces and components
+* Develop React interfaces and reusable components
 * Create CSS animations and micro-interactions
 * Work with SVG and optimize images
 * Improve frontend performance
 * Debug interfaces using Chrome DevTools
 * Test layouts across browsers and screen sizes
+* Use AI tools to accelerate development and debugging
+* Review, adapt, and test AI-generated code
 
 ---
 
@@ -151,7 +169,9 @@ Responsive hotel landing page implemented from a design.
 
 I am currently looking for a **Junior Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a frontend developer.
 
-**Interested in remote opportunities and project-based work.**
+I am particularly interested in **web development, responsive interfaces, landing pages, corporate websites, WordPress projects, and frontend development**.
+
+**Open to remote, international, and project-based opportunities.**
 
 ---
 
