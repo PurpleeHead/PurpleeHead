@@ -1,12 +1,10 @@
 # Artem Kutelev
 
-### Frontend Developer / HTML-CSS Developer
+### Frontend Developer | HTML/CSS Developer
 
-Создаю современные, адаптивные веб-интерфейсы и сайты.
+I build modern, responsive web interfaces and websites with a strong focus on clean structure, usability, and performance.
 
-Работаю с HTML, CSS, JavaScript, TypeScript и React. В проектах уделяю внимание
-адаптивности, семантической разметке, структуре кода, производительности
-и пользовательскому интерфейсу.
+My main technologies are **HTML, CSS/SCSS, JavaScript, TypeScript, and React**. I pay close attention to responsive design, semantic markup, maintainable code, performance, and user experience.
 
 ---
 
@@ -14,42 +12,41 @@
 
 ### Frontend
 
-- HTML5
-- CSS3 / SCSS
-- JavaScript ES6+
-- TypeScript
-- React
+* HTML5
+* CSS3 / SCSS
+* JavaScript (ES6+)
+* TypeScript
+* React
 
 ### Tools & Technologies
 
-- BEM
-- Flexbox / CSS Grid
-- Responsive Web Design
-- Mobile First
-- SVG / SVG Sprite
-- CSS Animations
-- React Hooks
-- React Router
-- React Hook Form
-- Zod
-- React Query
-- Git / GitHub
-- Figma
-- Chrome DevTools
-- Lighthouse
-- WebP / AVIF
-- Lazy Loading
+* BEM
+* Flexbox / CSS Grid
+* Responsive Web Design
+* Mobile First
+* SVG / SVG Sprites
+* CSS Animations
+* React Hooks
+* React Router
+* React Hook Form
+* Zod
+* TanStack React Query
+* Git / GitHub
+* Figma
+* Chrome DevTools
+* Lighthouse
+* WebP / AVIF
+* Lazy Loading
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Sminex
 
 Responsive landing page for a residential complex.
 
-Implemented responsive layouts, semantic HTML structure, BEM methodology,
-SCSS, SVG graphics and optimized images.
+Implemented a responsive layout, semantic HTML structure, BEM methodology, SCSS styling, SVG graphics, and image optimization.
 
 **HTML5 · SCSS · BEM · SVG · WebP · Responsive Design · Git**
 
@@ -62,10 +59,9 @@ SCSS, SVG graphics and optimized images.
 
 Full-stack application for creating and managing personal notes.
 
-Includes user registration, authentication, protected routes and note
-management.
+The application includes user registration, authentication, protected routes, and note management.
 
-**React · TypeScript · Express · JWT · LowDB · React Hook Form · Zod · React Query**
+**React · TypeScript · Express · JWT · LowDB · React Hook Form · Zod · TanStack React Query**
 
 [GitHub](https://github.com/PurpleeHead/personal-notes-app)
 
@@ -73,8 +69,9 @@ management.
 
 ### Whitemark
 
-Responsive contacts page with an animated preloader featuring company logos
-before the main interface loads.
+Responsive contacts page with an animated preloader featuring company logos before the main interface loads.
+
+Focused on responsive layout implementation, SVG integration, CSS animations, and structured BEM-based styling.
 
 **HTML5 · SCSS · BEM · SVG · CSS Animations · Responsive Design · Git**
 
@@ -87,10 +84,9 @@ before the main interface loads.
 
 Responsive one-page website for a music streaming service.
 
-Implemented adaptive layout, semantic HTML, responsive navigation,
-custom UI elements and reusable CSS components.
+Implemented an adaptive layout, semantic HTML, responsive navigation, custom UI elements, and reusable CSS components.
 
-**HTML5 · CSS3 · JavaScript · BEM · Flexbox · Grid · Responsive Design · Git**
+**HTML5 · CSS3 · JavaScript · BEM · Flexbox · CSS Grid · Responsive Design · Git**
 
 [Live Demo](https://purpleehead.github.io/w-wave/) ·
 [GitHub](https://github.com/PurpleeHead/w-wave)
@@ -99,12 +95,11 @@ custom UI elements and reusable CSS components.
 
 ### Evcalid
 
-Responsive one-page website with a clean modern interface.
+Responsive one-page website with a clean and modern interface.
 
-Focused on accurate layout implementation, responsive behavior and
-structured semantic markup.
+Focused on accurate design implementation, responsive behavior, and structured semantic markup.
 
-**HTML5 · CSS3 · BEM · Flexbox · Grid · Responsive Design · Git**
+**HTML5 · CSS3 · BEM · Flexbox · CSS Grid · Responsive Design · Git**
 
 [Live Demo](https://purpleehead.github.io/Evcalid/) ·
 [GitHub](https://github.com/PurpleeHead/Evcalid)
@@ -115,8 +110,7 @@ structured semantic markup.
 
 One-page website for a hotel complex.
 
-Implemented the layout from a design with semantic HTML, CSS and
-structured BEM-based styles.
+Implemented the design with semantic HTML, structured BEM-based styles, responsive layouts, and pixel-perfect positioning.
 
 **HTML5 · CSS3 · BEM · Flexbox · Pixel Perfect · Git**
 
@@ -127,29 +121,29 @@ structured BEM-based styles.
 
 ## What I Do
 
-- Responsive HTML/CSS development from Figma designs
-- Semantic and accessible markup
-- Pixel Perfect implementation
-- Adaptive layouts for desktop, tablet and mobile
-- Interactive UI with JavaScript
-- React interfaces
-- CSS animations and micro-interactions
-- SVG integration and optimization
-- Performance optimization
-- Cross-browser testing
+* Responsive HTML/CSS development from Figma designs
+* Semantic and accessible markup
+* Pixel-perfect implementation
+* Responsive layouts for desktop, tablet, and mobile
+* Interactive interfaces with JavaScript
+* React interface development
+* CSS animations and micro-interactions
+* SVG integration and optimization
+* Performance optimization
+* Cross-browser testing
 
 ---
 
 ## Portfolio
 
-[Portfolio](https://purpleehead.github.io/portfolio/)
+[View My Portfolio](https://purpleehead.github.io/portfolio/)
 
 ---
 
 ## Contacts
 
-- Telegram: [@art_alberto](https://t.me/art_alberto)
-- Email: [purpleehead@gmail.com](mailto:purpleehead@gmail.com)
+* Telegram: [@art_alberto](https://t.me/art_alberto)
+* Email: [purpleehead@gmail.com](mailto:purpleehead@gmail.com)
 
 ---
 
