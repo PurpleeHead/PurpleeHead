@@ -1,16 +1,22 @@
 # Artem Kutelev
 
-### Frontend Developer | HTML/CSS Developer
+### Junior Frontend Developer | HTML/CSS Developer
 
-I build modern, responsive web interfaces and websites with a strong focus on clean structure, usability, and performance.
+**Open to remote opportunities**
 
-My main technologies are **HTML, CSS/SCSS, JavaScript, TypeScript, and React**. I pay close attention to responsive design, semantic markup, maintainable code, performance, and user experience.
+I build **responsive, accessible, and pixel-perfect web interfaces** from Figma designs.
+
+My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focus on clean semantic markup, responsive layouts, reusable components, maintainable code, and web performance.
+
+📍 Remote
+💼 Junior Frontend Developer / HTML-CSS Developer
+🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
 
 ---
 
-## Tech Stack
+## Core Skills
 
-### Frontend
+**Frontend**
 
 * HTML5
 * CSS3 / SCSS
@@ -18,50 +24,60 @@ My main technologies are **HTML, CSS/SCSS, JavaScript, TypeScript, and React**. 
 * TypeScript
 * React
 
-### Tools & Technologies
+**Layout & UI**
 
-* BEM
-* Flexbox / CSS Grid
 * Responsive Web Design
 * Mobile First
-* SVG / SVG Sprites
+* Flexbox
+* CSS Grid
+* BEM
+* Pixel Perfect
+* Semantic HTML
+* Accessibility
 * CSS Animations
+* SVG / SVG Sprites
+
+**React Ecosystem**
+
 * React Hooks
 * React Router
 * React Hook Form
 * Zod
 * TanStack React Query
+
+**Tools**
+
 * Git / GitHub
 * Figma
 * Chrome DevTools
 * Lighthouse
 * WebP / AVIF
 * Lazy Loading
+* Cross-browser Testing
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 ### Sminex
 
 Responsive landing page for a residential complex.
 
-Implemented a responsive layout, semantic HTML structure, BEM methodology, SCSS styling, SVG graphics, and image optimization.
+**Highlights:** responsive layout, semantic HTML, BEM, SCSS, SVG integration, image optimization.
 
-**HTML5 · SCSS · BEM · SVG · WebP · Responsive Design · Git**
+**Stack:** HTML5 · SCSS · BEM · SVG · WebP · Responsive Design
 
-[Live Demo](https://purpleehead.github.io/sminex/) ·
-[GitHub](https://github.com/PurpleeHead/sminex)
+[Live Demo](https://purpleehead.github.io/sminex/) · [GitHub](https://github.com/PurpleeHead/sminex)
 
 ---
 
 ### Personal Notes App
 
-Full-stack application for creating and managing personal notes.
+Full-stack notes application with authentication and protected routes.
 
-The application includes user registration, authentication, protected routes, and note management.
+**Features:** user registration, authentication, protected routes, note management, form validation, data fetching.
 
-**React · TypeScript · Express · JWT · LowDB · React Hook Form · Zod · TanStack React Query**
+**Stack:** React · TypeScript · Express · JWT · LowDB · React Hook Form · Zod · TanStack React Query
 
 [GitHub](https://github.com/PurpleeHead/personal-notes-app)
 
@@ -69,14 +85,13 @@ The application includes user registration, authentication, protected routes, an
 
 ### Whitemark
 
-Responsive contacts page with an animated preloader featuring company logos before the main interface loads.
+Responsive contacts page with an animated preloader and company logo sequence.
 
-Focused on responsive layout implementation, SVG integration, CSS animations, and structured BEM-based styling.
+**Highlights:** responsive UI, SVG graphics, CSS animations, BEM methodology.
 
-**HTML5 · SCSS · BEM · SVG · CSS Animations · Responsive Design · Git**
+**Stack:** HTML5 · SCSS · BEM · SVG · CSS Animations · Responsive Design
 
-[Live Demo](https://purpleehead.github.io/whitemark-preview/) ·
-[GitHub](https://github.com/PurpleeHead/whitemark-preview)
+[Live Demo](https://purpleehead.github.io/whitemark-preview/) · [GitHub](https://github.com/PurpleeHead/whitemark-preview)
 
 ---
 
@@ -84,69 +99,67 @@ Focused on responsive layout implementation, SVG integration, CSS animations, an
 
 Responsive one-page website for a music streaming service.
 
-Implemented an adaptive layout, semantic HTML, responsive navigation, custom UI elements, and reusable CSS components.
+**Highlights:** adaptive layout, semantic markup, responsive navigation, custom UI components.
 
-**HTML5 · CSS3 · JavaScript · BEM · Flexbox · CSS Grid · Responsive Design · Git**
+**Stack:** HTML5 · CSS3 · JavaScript · BEM · Flexbox · CSS Grid
 
-[Live Demo](https://purpleehead.github.io/w-wave/) ·
-[GitHub](https://github.com/PurpleeHead/w-wave)
+[Live Demo](https://purpleehead.github.io/w-wave/) · [GitHub](https://github.com/PurpleeHead/w-wave)
 
 ---
 
 ### Evcalid
 
-Responsive one-page website with a clean and modern interface.
+Responsive one-page website with a modern interface.
 
-Focused on accurate design implementation, responsive behavior, and structured semantic markup.
+**Highlights:** accurate Figma implementation, responsive behavior, semantic HTML, structured CSS.
 
-**HTML5 · CSS3 · BEM · Flexbox · CSS Grid · Responsive Design · Git**
+**Stack:** HTML5 · CSS3 · BEM · Flexbox · CSS Grid · Responsive Design
 
-[Live Demo](https://purpleehead.github.io/Evcalid/) ·
-[GitHub](https://github.com/PurpleeHead/Evcalid)
+[Live Demo](https://purpleehead.github.io/Evcalid/) · [GitHub](https://github.com/PurpleeHead/Evcalid)
 
 ---
 
 ### Lagoona
 
-One-page website for a hotel complex.
+Responsive hotel landing page implemented from a design.
 
-Implemented the design with semantic HTML, structured BEM-based styles, responsive layouts, and pixel-perfect positioning.
+**Highlights:** semantic HTML, BEM-based CSS architecture, responsive layout, pixel-perfect implementation.
 
-**HTML5 · CSS3 · BEM · Flexbox · Pixel Perfect · Git**
+**Stack:** HTML5 · CSS3 · BEM · Flexbox · Pixel Perfect
 
-[Live Demo](https://purpleehead.github.io/Lagoona/) ·
-[GitHub](https://github.com/PurpleeHead/Lagoona)
-
----
-
-## What I Do
-
-* Responsive HTML/CSS development from Figma designs
-* Semantic and accessible markup
-* Pixel-perfect implementation
-* Responsive layouts for desktop, tablet, and mobile
-* Interactive interfaces with JavaScript
-* React interface development
-* CSS animations and micro-interactions
-* SVG integration and optimization
-* Performance optimization
-* Cross-browser testing
+[Live Demo](https://purpleehead.github.io/Lagoona/) · [GitHub](https://github.com/PurpleeHead/Lagoona)
 
 ---
 
-## Portfolio
+## What I Can Do
 
-[View My Portfolio](https://purpleehead.github.io/portfolio/)
+* Build responsive websites from Figma designs
+* Create semantic and accessible HTML markup
+* Develop pixel-perfect layouts
+* Build desktop, tablet, and mobile versions
+* Implement interactive UI with JavaScript
+* Develop React interfaces and components
+* Create CSS animations and micro-interactions
+* Work with SVG and optimize images
+* Improve frontend performance
+* Debug interfaces using Chrome DevTools
+* Test layouts across browsers and screen sizes
 
 ---
 
-## Contacts
+## Looking For
 
-* Telegram: [@art_alberto](https://t.me/art_alberto)
-* Email: [purpleehead@gmail.com](mailto:purpleehead@gmail.com)
+I am currently looking for a **Junior Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a frontend developer.
+
+**Interested in remote opportunities and project-based work.**
 
 ---
 
-## GitHub
+## Contact
+
+Telegram: [@art_alberto](https://t.me/art_alberto)
+Email: [purpleehead@gmail.com](mailto:purpleehead@gmail.com)
+
+### GitHub
 
 [github.com/PurpleeHead](https://github.com/PurpleeHead)
