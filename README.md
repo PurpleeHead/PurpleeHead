@@ -8,7 +8,7 @@ I build **responsive, accessible, and pixel-perfect web interfaces** from Figma 
 
 My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focus on clean semantic markup, responsive layouts, reusable components, maintainable code, and web performance.
 
-📍 Remote / Da Nang, Vietnam
+📍 Remote 
 💼 Junior Frontend Developer / HTML-CSS Developer
 🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
 
