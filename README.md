@@ -75,6 +75,18 @@ My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focu
 
 ## Selected Projects
 
+### PromptLab — AI Prompt Workspace
+
+A productivity-focused web app for building and managing a reusable library of AI prompts. Organize instructions into collections, search and filter templates, save favorites, personalize prompts with variables, preview the final text, and import or export data. Built with React, TypeScript, Vite, and SCSS, with local-first storage and tests for core utilities. Designed as a foundation that can grow into a more capable AI productivity tool.
+
+**Highlights:** reusable prompt library, template variables and preview, collections and favorites, JSON/CSV import and export, responsive interface, local-first workflow.
+
+**Stack:** React · TypeScript · Vite · SCSS · React Router · Vitest · Testing Library
+
+[Live Demo](https://purpleehead.github.io/PromptLab/) · [GitHub](https://github.com/PurpleeHead/PromptLab)
+
+---
+
 ### Sminex
 
 Responsive landing page for a residential complex.
