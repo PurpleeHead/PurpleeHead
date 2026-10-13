@@ -87,6 +87,18 @@ A productivity-focused web app for building and managing a reusable library of A
 
 ---
 
+### Lingvéra — English Learning Mini App
+
+A Telegram-first English-learning MVP focused on short A1 lessons and steady practice. Includes a React + TypeScript Mini App, a FastAPI backend, PostgreSQL/SQLite persistence, answer checking, learning progress, and vocabulary review scheduling. The project is an independent MVP; production deployment and real Telegram integration still require verification.
+
+**Highlights:** 30 lessons and 120 exercises in the starter A1 course, three exercise types, server-side answer validation, progress dashboard, vocabulary review flow, Telegram WebApp authentication support.
+
+**Stack:** React · TypeScript · Vite · FastAPI · Python · SQLAlchemy · PostgreSQL · SQLite · Alembic · Docker
+
+[Live Demo](https://lingv-ra.pages.dev/) · [GitHub](https://github.com/PurpleeHead/Lingv-ra)
+
+---
+
 ### Sminex
 
 Responsive landing page for a residential complex.
