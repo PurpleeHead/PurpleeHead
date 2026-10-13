@@ -89,13 +89,13 @@ A productivity-focused web app for building and managing a reusable library of A
 
 ### Lingvéra — English Learning Mini App
 
-A Telegram-first English-learning MVP focused on short A1 lessons and steady practice. Includes a React + TypeScript Mini App, a FastAPI backend, PostgreSQL/SQLite persistence, answer checking, learning progress, and vocabulary review scheduling. The project is an independent MVP; production deployment and real Telegram integration still require verification.
+A deployed Telegram-first English-learning MVP focused on short A1 lessons and steady practice. Includes a React + TypeScript Mini App, a FastAPI backend, PostgreSQL/SQLite persistence, server-side answer checking, learning progress, and vocabulary review scheduling. The bot and Mini App are live; deeper release checks for cross-session persistence, multi-user isolation, recovery, and database restore are documented as remaining operational tasks.
 
-**Highlights:** 30 lessons and 120 exercises in the starter A1 course, three exercise types, server-side answer validation, progress dashboard, vocabulary review flow, Telegram WebApp authentication support.
+**Highlights:** 30 lessons and 120 exercises in the starter A1 course, three exercise types, server-side answer validation, progress dashboard, vocabulary review scheduling, Telegram WebApp authentication, deployed API, and a working `/start` entry point.
 
 **Stack:** React · TypeScript · Vite · FastAPI · Python · SQLAlchemy · PostgreSQL · SQLite · Alembic · Docker
 
-[Live Demo](https://lingv-ra.pages.dev/) · [GitHub](https://github.com/PurpleeHead/Lingv-ra)
+[Open Mini App](https://lingv-ra.pages.dev/) · [Telegram Bot](https://t.me/LingveraLearnBot) · [GitHub](https://github.com/PurpleeHead/Lingv-ra) · [API Health](https://lingv-ra.onrender.com/health)
 
 ---
 
