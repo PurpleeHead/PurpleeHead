@@ -1,6 +1,6 @@
 # Artem Kutelev
 
-### Junior Frontend Developer | HTML/CSS Developer
+### Frontend Developer | HTML/CSS Developer
 
 **Open to remote and international opportunities**
 
@@ -9,7 +9,7 @@ I build **responsive, accessible, and pixel-perfect web interfaces** from Figma 
 My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focus on clean semantic markup, responsive layouts, reusable components, maintainable code, and web performance.
 
 📍 Remote 
-💼 Junior Frontend Developer / HTML-CSS Developer
+💼 Frontend Developer / HTML-CSS Developer
 🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
 
 ---
@@ -191,7 +191,7 @@ Responsive hotel landing page implemented from a design.
 
 ## Looking For
 
-I am currently looking for a **Junior Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a frontend developer.
+I am currently looking for a ** Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a Frontend Developer.
 
 I am particularly interested in **web development, responsive interfaces, landing pages, corporate websites, WordPress projects, and frontend development**.
 
