@@ -69,7 +69,7 @@ My core stack is **HTML5, CSS3/SCSS, JavaScript, TypeScript, and React**. I focu
 ## Languages
 
 * **Russian** — Native
-* **English** — Elementary, actively improving; comfortable with technical documentation and frontend terminology
+* **English** — Elementary speaking; strong technical reading skills and comfortable with English-language documentation
 
 ---
 
@@ -191,7 +191,7 @@ Responsive hotel landing page implemented from a design.
 
 ## Looking For
 
-I am currently looking for a ** Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a Frontend Developer.
+I am currently looking for a **Frontend Developer / HTML-CSS Developer** position where I can contribute to real-world projects, improve my engineering skills, and grow as a Frontend Developer.
 
 I am particularly interested in **web development, responsive interfaces, landing pages, corporate websites, WordPress projects, and frontend development**.
 
