@@ -8,7 +8,7 @@ I build responsive web interfaces with **React and TypeScript** and develop full
 
 My approach is product-focused: solve a real user problem, keep business rules in application code, validate incoming and generated data, protect secrets on the server, and involve a person when a decision needs review.
 
-📍 Based in Da Nang, Vietnam · Open to remote work  
+🌐 Open to remote work  
 🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
 
 ---
