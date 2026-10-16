@@ -1,12 +1,12 @@
 # Artem Kutelev
 
-### AI Application Developer | Full-Stack Developer | React · TypeScript · Python
+### Frontend Developer | React · TypeScript | Full-Stack & AI Applications
 
-**Building web applications, AI-powered tools, and API-driven products · Open to remote and international opportunities**
+**Building responsive web interfaces and practical web applications · Open to remote and international opportunities**
 
-I build responsive web interfaces and full-stack applications, and I’m expanding my focus into **AI application development**: connecting LLMs to real product workflows, designing reliable prompts, structuring model outputs, and combining AI with backend services and databases.
+I build responsive web interfaces with **React and TypeScript** and develop full-stack projects that connect frontend experiences with APIs, backend services, and databases. I’m also expanding my skills in **AI application development**—learning how to integrate LLM capabilities into useful product workflows, design reliable prompts, validate structured outputs, and handle model responses safely.
 
-My approach is product-focused: use AI where it solves a real problem, keep business rules in application code, validate model outputs, protect secrets on the server, and route sensitive cases to human review.
+My approach is product-focused: solve a real user problem, keep business rules in application code, validate incoming and generated data, protect secrets on the server, and involve a person when a decision needs review.
 
 📍 Based in Da Nang, Vietnam · Open to remote work  
 🌐 Portfolio: [purpleehead.github.io/portfolio](https://purpleehead.github.io/portfolio/)
@@ -15,26 +15,16 @@ My approach is product-focused: use AI where it solves a real problem, keep busi
 
 ## Core Technology Stack
 
-**AI Application Development**
-- LLM-powered application workflows
-- Claude / Anthropic API integration — current focus
-- Prompt engineering and reusable prompt templates
-- Structured model outputs and JSON validation
-- Context-aware responses and classification workflows
-- Tool/function calling patterns
-- Human-in-the-loop review and escalation
-- AI-assisted coding, debugging, and code review
-- Foundations of retrieval-augmented generation (RAG) and evaluation
-
-**Frontend**
+**Frontend Development**
 - HTML5, CSS3 / SCSS
 - JavaScript (ES6+), TypeScript
 - React, Vite
-- Responsive and accessible UI development
+- Responsive, accessible, and pixel-accurate UI development
 - React Hooks, React Router
 - React Hook Form, Zod, TanStack Query
 - Semantic HTML, BEM, Flexbox, CSS Grid
 - SVG, image optimization, performance basics
+- Figma, Chrome DevTools, Lighthouse
 
 **Backend & APIs**
 - Node.js, Express
@@ -53,10 +43,19 @@ My approach is product-focused: use AI where it solves a real problem, keep busi
 - Environment-based configuration and secret management
 - Deployment and basic production troubleshooting
 
+**AI Application Development — Current Focus**
+- Prompt engineering and reusable prompt templates
+- LLM API integration concepts, with a focus on Claude / Anthropic
+- Structured model outputs and JSON validation
+- Context-aware responses and classification workflows
+- Tool/function-calling patterns
+- Human-in-the-loop review and escalation
+- AI-assisted coding, debugging, and code review
+- Foundations of retrieval-augmented generation (RAG) and evaluation
+
 **Tools**
 - Claude, ChatGPT, Cursor
-- Figma, VS Code
-- Chrome DevTools, Lighthouse
+- VS Code
 - Vitest, Testing Library
 
 ---
@@ -133,13 +132,13 @@ Hotel landing page implemented from a design with semantic HTML and BEM-based st
 
 ---
 
-## What I’m Building Toward
+## Current Learning & Project Goals
 
-- AI assistants and workflow automation powered by LLM APIs
-- Context-aware customer support and marketplace review response tools
-- AI applications with structured outputs, validation, and human approval
-- Full-stack products that connect React interfaces, Python/Node backends, APIs, and databases
-- Reliable, testable AI features with clear error handling and privacy-aware design
+- Build practical features that connect frontend interfaces with backend APIs and databases
+- Learn and implement LLM API integrations for useful product workflows
+- Explore AI assistants, workflow automation, and context-aware customer support tools
+- Make AI-powered features more reliable with structured outputs, validation, testing, and human review
+- Keep applications maintainable, responsive, and mindful of privacy
 
 ## Languages
 
@@ -148,7 +147,7 @@ Hotel landing page implemented from a design with semantic HTML and BEM-based st
 
 ## Looking For
 
-I’m interested in opportunities across **AI Application Development, Junior AI Engineer / AI Developer roles, Full-Stack Development, and Frontend Development**. I’m especially interested in building practical AI-powered products, integrating LLM APIs, and connecting model capabilities with real business workflows.
+I’m interested in **Frontend Developer (React / TypeScript)** opportunities, as well as suitable **Full-Stack Developer** and **AI Application Developer** roles where I can contribute to real products and continue developing my backend and AI integration skills.
 
 Open to remote, international, and project-based opportunities.
 
